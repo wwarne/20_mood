@@ -1,6 +1,8 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+This site will provide you with funny quotes for rasing your spirit.
+
+[You can see it in action here](https://wwarne.github.io/20_mood/)
 
 # Project Goals
 
